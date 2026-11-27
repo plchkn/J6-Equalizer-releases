@@ -1,10 +1,14 @@
-# ![Мой эквалайзер](images/cover.jpg)
+<p align="center">
+  <img src="images/equalizer.png" width="256" alt="Золотая монограмма EQ на тёмном фоне">
+</p>
+
+<h1 align="center">Equalizer</h1>
 
 **[Скачать APK 1.0.0](https://github.com/plchkn/J6-Equalizer-releases/releases/download/v1.0.0/j6-equalizer-1.0.0.apk)** · [Что нового в 1.0.0](https://github.com/plchkn/J6-Equalizer-releases/releases/tag/v1.0.0) · [Все версии](https://github.com/plchkn/J6-Equalizer-releases/releases)
 
 Для Android 12 и новее.
 
-«Мой эквалайзер» настраивает звук музыки из Android Auto на Jeland J6. Начните с готового пресета или подберите уровни частот на слух.
+Equalizer настраивает звук музыки из Android Auto на Jeland J6. Начните с готового пресета или подберите уровни частот на слух.
 
 ## Возможности
 
