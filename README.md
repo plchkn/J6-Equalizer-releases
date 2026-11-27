@@ -46,5 +46,3 @@
 Скачайте [SHA256SUMS](https://github.com/plchkn/J6-Equalizer-releases/releases/download/v1.0.0/SHA256SUMS) и сравните указанную там сумму SHA-256 с суммой своего APK. Файл `update.json` использует само приложение при проверке обновлений.
 
 </details>
-
-[Открыть инструкцию отдельной страницей](GUIDE.md)
