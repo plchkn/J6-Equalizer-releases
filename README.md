@@ -5,6 +5,8 @@
 **[Скачать APK 1.0.0](https://github.com/plchkn/J6-Equalizer-releases/releases/download/v1.0.0/j6-equalizer-1.0.0.apk)** · [Страница выпуска](https://github.com/plchkn/J6-Equalizer-releases/releases/tag/v1.0.0)<br>
 Для Android 12 и новее. APK доступен без входа в GitHub.
 
+[Краткая инструкция с иллюстрациями](GUIDE.md)
+
 ## Пять оформлений
 
 В **Настройки → Оформление** сравните все пять тем на одной кривой. Смена темы сохраняет выбранный пресет и положение полос.
